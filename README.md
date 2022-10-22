@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış Bali</h1>
-<h3 align="center">A Computer Engineeing student from Turkey. . I love computers and everything related to technology.The places I feel most comfortable are simply where I can use my creativity to the fullest.</h3>
+<h3 align="center">A Computer Engineering student from Turkey. . I love computers and everything related to technology.The places I feel most comfortable are simply where I can use my creativity to the fullest.</h3>
 
 - 🎮 I’m currently learning **Game Development and Design**
 
