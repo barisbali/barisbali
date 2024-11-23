@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/barisbali" target="blank"><img src="https://img.shields.io/twitter/follow/barisbali?logo=twitter&style=for-the-badge" alt="barisbali" /></a> </p>
 
-- 🔭 I’m currently working on ** My new personal web app **
+- 🔭 I’m currently working on **My new personal web app**
 
-- 🌱 I’m currently learning ** Cloud and Cyber Security **
+- 🌱 I’m currently learning **Cloud and Cyber Security**
 
 - 👯 I’m looking to collaborate on **a cool AI project!**
 
@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [barisbali.com](barisbali.com)
 
-- 💬 Ask me about ** Computer Engineering **
+- 💬 Ask me about **Computer Engineering**
 
-- 📫 How to reach me ** www.barisbali.com **
+- 📫 How to reach me **www.barisbali.com**
 
 - ⚡ Fun fact **Always wanted to be an Actor!**
 
