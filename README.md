@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış Bali</h1>
-<h3 align="center">My name is Barış, and I’m a computer engineering student with a great passion to video games, Formula 1, and all things 80’s. When I’m not buried in code, you can usually find me blasting classic tunes from my favorite decade while dreaming.</h3>
+<h3 align="center">As an engineer and a passionate tech lover, I bring a unique blend of technical expertise and artistic design enthusiasm to every project. Creativity is the key.</h3>
 
 <p align="left"> <a href="https://twitter.com/barisbali" target="blank"><img src="https://img.shields.io/twitter/follow/barisbali?logo=twitter&style=for-the-badge" alt="barisbali" /></a> </p>
 
@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [barisbali.com](barisbali.com)
 
-- 💬 Ask me about **Game Development and AI**
+- 💬 Ask me about ** Computer Engineering **
 
-- 📫 How to reach me **balibaris1@gmail.com**
+- 📫 How to reach me ** www.barisbali.com **
 
 - ⚡ Fun fact **Always wanted to be an Actor!**
 
