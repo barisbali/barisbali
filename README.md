@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/barisbali" target="blank"><img src="https://img.shields.io/twitter/follow/barisbali?logo=twitter&style=for-the-badge" alt="barisbali" /></a> </p>
 
-- 🔭 I’m currently working on **AI Based Video Game Recommendation System**
+- 🔭 I’m currently working on ** My new personal web app **
 
-- 🌱 I’m currently learning **AI and Game Development**
+- 🌱 I’m currently learning ** Cloud and Cyber Security **
 
 - 👯 I’m looking to collaborate on **a cool AI project!**
 
