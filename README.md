@@ -13,7 +13,7 @@
 ### 🔥 About Me
 - 🎓 Computer Engineer with a passion for **building, securing, and optimizing tech**.
 - ⚡ Exploring **cybersecurity, cloud computing, application development, and automation**.
-- 🛠 Constantly sharpening my skills in **Python, Linux, and security tools**.
+- 🛠 Constantly sharpening my skills in **Python, Linux, App Development and security tools**.
 - 🌍 Sharing my journey on [Instagram (@codebarba)](https://www.instagram.com/codebarba/)
 - 💡 On a journey to become an **entrepreneur**, leveraging technology to create impactful solutions.
 
