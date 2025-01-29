@@ -59,8 +59,8 @@ Upcoming...
 ### 📬 Let's Connect!
 🌍 **Website:** [barisbali.com](https://barisbali.com)  
 📸 **Instagram:** [@codebarba](https://www.instagram.com/codebarba/)  
-💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/barisbali)  
-🐦 **Twitter/X:** [Your Twitter](https://twitter.com/barisbali)  
+💼 **LinkedIn:** [Barış Bali LinkedIn](https://linkedin.com/in/barisbali)  
+🐦 **Twitter/X:** [barisbali](https://twitter.com/barisbali)  
 
 ---
 
