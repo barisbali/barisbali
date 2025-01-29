@@ -55,18 +55,6 @@ Upcoming...
 📌 *More on my [GitHub Repositories](https://github.com/barisbali)*
 
 ---
-
-### 📬 Let's Connect!
-🌍 **Website:** [barisbali.com](https://barisbali.com)  
-📸 **Instagram:** [@codebarba](https://www.instagram.com/codebarba/)  
-💼 **LinkedIn:** [Barış Bali LinkedIn](https://linkedin.com/in/barisbali)  
-🐦 **Twitter/X:** [barisbali](https://twitter.com/barisbali)  
-
----
-
-💡 *“Stay curious, stay innovative, stay secure.”* 🔥
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/barisbali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barisbali" height="30" width="40" /></a>
@@ -76,7 +64,13 @@ Upcoming...
 <a href="https://medium.com/@barisbali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@barisbali" height="30" width="40" /></a>
 </p>
 
+🌍 **Website:** [barisbali.com](https://barisbali.com)  
+📸 **Instagram:** [@codebarba](https://www.instagram.com/codebarba/)  
+💼 **LinkedIn:** [Barış Bali LinkedIn](https://linkedin.com/in/barisbali)  
+🐦 **Twitter/X:** [barisbali](https://twitter.com/barisbali)  
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barisbali&show_icons=true&locale=en" alt="barisbali" /></p>
+💡 *“Stay curious, stay innovative, stay secure.”* 🔥
+
 
