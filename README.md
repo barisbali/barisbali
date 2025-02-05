@@ -35,9 +35,9 @@
 ---
 
 ### 📌 Current Focus
-✅ Advancing my **cybersecurity skills** and ethical hacking expertise  
+✅ Advancing my **application development skills** and ethical hacking expertise  
 ✅ Building **Python automation tools** for efficiency and innovation  
-✅ Learning and mastering **cloud technologies** (AWS, Azure, GCP)  
+✅ Learning and mastering **cloud technologies and ai** (AWS, Azure, GCP)  
 ✅ Developing applications for **iOS and web platforms**  
 ✅ Exploring **entrepreneurial opportunities** to launch innovative products  
 
