@@ -16,6 +16,7 @@
 - 🛠 Constantly sharpening my skills in **Python, Linux, App Development and security tools**.
 - 🌍 Sharing my journey on [Instagram (@codebarba)](https://www.instagram.com/codebarba/)
 - 💡 On a journey to become an **entrepreneur**, leveraging technology to create impactful solutions.
+- Check out [barisbali.github.io](https://barisbali.github.io/) for more...
 
 ---
 
