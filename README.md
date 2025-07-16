@@ -5,15 +5,15 @@
 
 ## 👋 Hey there, I'm Baris Bali!
 
-🚀 **Tech enthusiast | Cybersecurity Explorer | Software Developer | Aspiring Entrepreneur**  
-📍 Exploring the intersection of **security, automation, application development, and tech innovation**
+🚀 **Tech enthusiast | Software Developer | Aspiring Entrepreneur**  
+📍 Exploring the intersection of **Entertainment Tech, AI, Application Development, and Tech Innovation**
 
 ---
 
 ### 🔥 About Me
-- 🎓 Computer Engineer with a passion for **building, securing, and optimizing tech**.
-- ⚡ Exploring **cybersecurity, cloud computing, application development, and automation**.
-- 🛠 Constantly sharpening my skills in **Python, Linux, App Development and security tools**.
+- 🎓 Computer Engineer with a passion for **building, creating, and finding solutions in tech**.
+- ⚡ Exploring **AI, entertainment tech, application development**.
+- 🛠 Constantly sharpening my skills in **Python, LLM's, Swift, Agentic Tools**.
 - 🌍 Sharing my journey on [Instagram (@codebarba)](https://www.instagram.com/codebarba/)
 - 💡 On a journey to become an **entrepreneur**, leveraging technology to create impactful solutions.
 - Check out [barisbali.github.io](https://barisbali.github.io/) for more...
@@ -36,8 +36,8 @@
 ---
 
 ### 📌 Current Focus
-✅ Advancing my **application development skills** and ethical hacking expertise  
-✅ Building **Python automation tools** for efficiency and innovation  
+✅ Advancing my **application development skills** and entertainment tech expertise 
+✅ Building **AI focussed fun tools** for efficiency and innovation  
 ✅ Learning and mastering **cloud technologies and ai** (AWS, Azure, GCP)  
 ✅ Developing applications for **iOS and web platforms**  
 ✅ Exploring **entrepreneurial opportunities** to launch innovative products  
@@ -53,7 +53,7 @@
 
 ### 🚀 Latest Projects
 Upcoming...
-📌 *More on my [GitHub Repositories](https://github.com/barisbali)*
+📌 *More on my [GitHub Pages](https://barisbali.github.io/)*
 
 ---
 <h3 align="left">Connect with me:</h3>
@@ -67,11 +67,11 @@ Upcoming...
 
 🌍 **Website:** [barisbali.com](https://barisbali.com)  
 📸 **Instagram:** [@codebarba](https://www.instagram.com/codebarba/)  
-💼 **LinkedIn:** [Barış Bali LinkedIn](https://linkedin.com/in/barisbali)  
+💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/barisbali)  
 🐦 **Twitter/X:** [barisbali](https://twitter.com/barisbali)  
 
 ---
 
-💡 *“Stay curious, stay innovative, stay secure.”* 🔥
+💡 *“Stay curious, stay innovative, have fun.”* 🔥
 
 
