@@ -15,7 +15,7 @@
   
   <br /><br />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Bridging+Engineering+%26+Design;Building+Privacy-First+AI+Apps;Swift+6+Concurrency+Expert;On-Device+Intelligence+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bridging+Engineering+%26+Design;Building+Privacy-First+AI+Apps;Swift+6+Concurrency+Expert;On-Device+Intelligence+Advocate" alt="Typing SVG" />
 </div>
 
 <br />
@@ -85,14 +85,8 @@ struct CurrentFocus {
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barisbali&show_icons=true&theme=dark&bg_color=0d1117&title_color=0066cc&text_color=ffffff&icon_color=0066cc&hide_border=true&border_radius=10" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisbali&theme=dark&background=0d1117&ring=0066cc&fire=0066cc&currStreakLabel=0066cc&sideLabels=ffffff&hide_border=true&border_radius=10" height="180" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=barisbali&theme=react-dark&bg_color=0d1117&color=0066cc&line=0066cc&point=ffffff&area=true&hide_border=true&radius=10" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=barisbali&show_icons=true&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisbali&theme=dark&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&hide_border=true&border_radius=10" height="180" />
 </div>
 
 <br />
@@ -146,23 +140,16 @@ Timing, rhythm, and harmony matter in both disciplines
 
 <div align="center">
   
-  <a href="https://barisbali.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0066cc?style=for-the-badge" />
-  </a>
-  <a href="https://x.com/codebarba">
-    <img src="https://img.shields.io/badge/💬_Twitter-Let's_Chat-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/barisbali">
-    <img src="https://img.shields.io/badge/🤝_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  [![Website](https://img.shields.io/badge/Website-barisbali.com-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://barisbali.com)
+  [![Medium](https://img.shields.io/badge/Medium-@barisbali-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@barisbali)
   
-  <br /><br />
+  <br />
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Stay%20curious,%20stay%20innovative,%20have%20fun.&author=Barış%20Bali&border=true" />
   
   <br /><br />
   
-  <img src="https://img.shields.io/badge/⚡_Open_to_Collaborations-iOS_Projects_&_AI_Applications-success?style=for-the-badge" />
+  <sub>⚡ Open to collaborations on innovative iOS projects and AI-driven applications</sub>
   
 </div>
 
