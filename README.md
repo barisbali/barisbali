@@ -2,7 +2,7 @@
 <h3 align="center">iOS Product Engineer | AI App Architect | Indie App Developer</h3>
 
 <p align="center">
-  <a href="https://x.com/codebarba" target="blank"><img src="https://img.shields.io/twitter/follow/barisbali?logo=twitter&style=for-the-badge&color=0066cc" alt="barisbali" /></a>
+  <a href="https://x.com/codebarba" target="blank"><img src="https://img.shields.io/twitter/follow/barisbali?logo=twitter&style=for-the-badge&color=0066cc" alt="codebarba" /></a>
   <a href="https://linkedin.com/in/barisbali" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
 </p>
 
