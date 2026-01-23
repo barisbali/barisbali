@@ -80,17 +80,6 @@ struct CurrentFocus {
 
 </div>
 
-<br />
-
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barisbali&show_icons=true&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide_border=true&border_radius=10" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisbali&theme=dark&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&hide_border=true&border_radius=10" height="180" />
-</div>
-
-<br />
-
 ## 🎨 Philosophy & Interests
 
 <div align="center">
