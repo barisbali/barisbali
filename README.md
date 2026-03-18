@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Barış%20Bali&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=fff" width="100%" />
   
-  <h1>🚀 iOS Product Engineer • AI App Architect • Indie Founder</h1>
+  <h1>⚙️ Systems Architect • Embedded & iOS Engineer • UI Craftsmanship</h1>
   
   <p>
     <a href="https://x.com/codebarba"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -15,30 +15,30 @@
   
   <br /><br />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bridging+Engineering+%26+Design;Building+Privacy-First+AI+Apps;Swift+6+Concurrency+Expert;On-Device+Intelligence+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bridging+Software+%26+Hardware;Architecting+Mission-Critical+Systems;Building+On-Device+Intelligence;Crafting+Tactile+User+Interfaces" alt="Typing SVG" />
 </div>
 
 <br />
 
-## 🎯 Current Mission
+## 🎯 Current Operations
 
 <div align="center">
   
 ```swift
-struct CurrentFocus {
-    let mission = "Architecting the Future"
+struct EngineeringDomain {
+    let trajectory = "Bridging the Digital and Physical Worlds"
     
-    var building: [String] {
+    var activeMissions: [String] {
         return [
-            "🏗️ Scaling a fleet of micro-apps",
-            "🧠 AI-driven discovery engine",
-            "📱 Privacy-first UX experiences",
-            "🐈 Distributed system of 8 cats"
+            "⚙️ Architecting embedded telemetry systems",
+            "🧠 Deploying local LLMs on Apple Neural Engine",
+            "📱 Crafting deterministic, non-flat user interfaces",
+            "⚡ Optimizing hardware-level computing constraints"
         ]
     }
     
-    var mastering: [String] {
-        return ["Core ML", "Swift 6 Concurrency", "SwiftData"]
+    var coreSystems: [String] {
+        return ["C/C++ & RTOS", "Swift/Metal", "App / Game Dev", "Edge Intelligence"]
     }
 }
 ```
@@ -47,7 +47,7 @@ struct CurrentFocus {
 
 <br />
 
-## 💻 Technical Stack
+## 💻 Tech Stack & Targets
 
 <div align="center">
 
@@ -55,24 +55,24 @@ struct CurrentFocus {
 <tr>
 <td align="center" width="50%">
 
-### 🍎 Apple Ecosystem
+### 🛰️ Embedded & Intelligence
 
-![Swift](https://img.shields.io/badge/Swift_6-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066cc?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-E35D5D?style=for-the-badge&logo=apple&logoColor=white)
+![C](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Core_ML](https://img.shields.io/badge/Core_ML-3DDC84?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Local_LLMs](https://img.shields.io/badge/Local_LLMA-FF9900?style=for-the-badge&logo=openai&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
-### ⚡ Backend & Intelligence
+### 🍎 App & Game Interfaces
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066cc?style=for-the-badge&logo=apple&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-333333?style=for-the-badge&logo=apple&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 </td>
 </tr>
@@ -80,7 +80,7 @@ struct CurrentFocus {
 
 </div>
 
-## 🎨 Philosophy & Interests
+## 🎨 Philosophy
 
 <div align="center">
 
@@ -88,29 +88,29 @@ struct CurrentFocus {
 <tr>
 <td width="33%" align="center">
 
-### 🎮 Systems Design
+### ⚙️ The Digital-Physical Bridge
   
-**Studying through narrative RPGs**
+**Hardware & Software Synergy**
 
-Understanding complex interactions, emergent behaviors, and user engagement patterns
+Finding the exact moment code escapes the screen. I optimize for latency, hardware constraints, and seamless physical-level interaction.
 
 </td>
 <td width="33%" align="center">
 
 ### 🏎️ F1 Engineering
 
-**Analyzing race strategies**
+**Precision & Strategy**
 
-Optimization under constraints, real-time decisions, marginal gains
+Mastering optimization under strict environmental constraints, split-second decision making, and pushing systems to their absolute limits safely.
 
 </td>
 <td width="33%" align="center">
 
-### 🎸 Creative Expression
+### 📱 Tangible Interfaces
 
-**Music & Code**
+**Depth & Weight**
 
-Timing, rhythm, and harmony matter in both disciplines
+User interfaces should not just be flat pixels. My obsession is designing experiences that feel substantial, heavy, and satisfying to touch.
 
 </td>
 </tr>
@@ -118,8 +118,8 @@ Timing, rhythm, and harmony matter in both disciplines
 
 <br />
 
-> **"Liberal arts and technology must intersect to create truly great products."**  
-> *The best apps don't just work—they resonate.*
+> **"We have spent too long making things simple. I want to make things substantial."**  
+> *If it breathes, moves, or interacts with the physical world, I’m building it.*
 
 </div>
 
@@ -134,11 +134,11 @@ Timing, rhythm, and harmony matter in both disciplines
   
   <br />
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Stay%20curious,%20stay%20innovative,%20have%20fun.&author=Barış%20Bali&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20don't%20just%20build%20apps;%20I%20create%20narratives%20through%20technology.&author=Barış%20Bali&border=true" />
   
   <br /><br />
   
-  <sub>⚡ Open to collaborations on innovative iOS projects and AI-driven applications</sub>
+  <sub>⚡ Open to collaborations on embedded systems, rigorous iOS architectures, and on-device logic.</sub>
   
 </div>
 
